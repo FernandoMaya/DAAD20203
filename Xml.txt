@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Propietarios>
+	<Propietario>
+		<Id>9</Id>
+		<Nombre>Marston</Nombre>
+		<Localidad>West</Llocalidad>
+		<Municipio>Mexico</Municipio>
+		<RFC>9876</RFC>
+	</Propietario>
+	<Propietario>
+		<Id>9</Id>
+		<Nombre>Marston</Nombre>
+		<Localidad>West</Llocalidad>
+		<Municipio>Mexico</Municipio>
+		<RFC>9876</RFC>
+	</Propietario>
+</Propietarios>
